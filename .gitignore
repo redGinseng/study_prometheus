@@ -1,0 +1,8 @@
+/alertmanager/
+/alertmanager/*
+/grafana/
+/grafana/*
+/node_exporter/
+/node_exporter/*
+/prometheus/
+/prometheus/*
